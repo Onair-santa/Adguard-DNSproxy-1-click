@@ -10,10 +10,9 @@ A simple DNS proxy server that supports all existing DNS protocols including DNS
 wget "https://raw.githubusercontent.com/Onair-santa/Adguard-DNSproxy-1-click/main/dnsproxy.sh" -O dnsproxy.sh && chmod +x dnsproxy.sh && bash dnsproxy.sh
 ```
 💠Start, stop, restart.
-
-systemctl start dnsproxy
-systemctl stop dnsproxy
-systemctl restart dnsproxy
+- systemctl start dnsproxy
+- systemctl stop dnsproxy
+- systemctl restart dnsproxy
 
 #### 💠 Thanks
 https://github.com/AdguardTeam/dnsproxy
