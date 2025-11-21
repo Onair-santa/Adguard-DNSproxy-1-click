@@ -6,6 +6,7 @@ A simple DNS proxy server that supports all existing DNS protocols including DNS
 - Install DoH config w Cloudflare DNS, cache
 - Other config and option https://github.com/AdguardTeam/dnsproxy
 - Rewrite service config if you need
+💠 Copy, paste and run
 ```
 wget "https://raw.githubusercontent.com/Onair-santa/Adguard-DNSproxy-1-click/main/dnsproxy.sh" -O dnsproxy.sh && chmod +x dnsproxy.sh && bash dnsproxy.sh
 ```
