@@ -1,1 +1,1 @@
-# Adguard-DNSproxy---1-click-install
+# Adguard DNSproxy-1-click
