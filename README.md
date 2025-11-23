@@ -16,7 +16,7 @@ sudo -i
 - Install DNSproxy
 - Install systemd service
 - Install DoH config w Cloudflare DNS, cache
-- dnsproxy -l 127.0.0.1 -p 53 -u https://dns.cloudflare.com/dns-query -b 1.1.1.1:53 -f 8.8.8.8:53 --cache
+- ```dnsproxy -l 127.0.0.1 -p 53 -u https://dns.cloudflare.com/dns-query -b 1.1.1.1:53 -f 8.8.8.8:53 --cache```
 - Other config and option https://github.com/AdguardTeam/dnsproxy?tab=readme-ov-file#usage
 - Rewrite service config if you need
 
